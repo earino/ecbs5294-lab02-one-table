@@ -74,8 +74,9 @@ Work in the notebook, under **Your work starts here**, top to bottom:
    on your view and read every row it kept.
 3. **Revenue by month, 2010** (section C). Write this query yourself, from the empty cell. Say how many rows you
    expect **before** you run it.
-4. **Countries with more than 100 invoices in 2010** (section D). From the empty cell. Then one sentence: why can
-   that condition not go in the `WHERE`?
+4. **The five countries with the most sales invoices in 2010** (section D), each with its number of invoices and its
+   revenue, most invoices first. From the empty cell; say how many rows you expect first. Then one sentence: what is one
+   row of your result, and what is one row of the view it reads?
 5. **The check** (section E). Two identities, both to the penny — a difference under half a penny, never `==`: the
    report's old number, less the lines the brief excludes, equals your revenue; and your twelve months add up to
    your revenue.

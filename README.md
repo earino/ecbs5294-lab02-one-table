@@ -72,7 +72,8 @@ Work in the notebook, under **Your work starts here**, top to bottom:
    **before you change anything**. Then name, for each number in the report, the clause of its sentence that the
    query does not do.
 2. **The lines that count** (section B). Write the brief's **whole** filter once, as a view `sales_2010`: which
-   invoices are sales, *and* which lines are 2010. Every later query reads from it, so it needs both. Run the census
+   invoices are sales, *and* which lines are 2010. Every later query reads from it, so it needs both. The cell runs as it
+   is, with `WHERE TRUE`: replace `TRUE`. Run the census
    again on your view and read every row it kept.
 3. **Revenue by month, 2010** (section C). Write this query yourself, from the empty cell. Say how many rows you
    expect **before** you run it, and order the rows by month.

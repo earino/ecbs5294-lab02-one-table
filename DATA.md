@@ -38,8 +38,8 @@ Global Carbon Budget (CC BY 4.0); the greenhouse-gas totals from Jones et al., *
 change* (CC BY 4.0); population and GDP from the sources OWID lists. Cite OWID and the named source when reusing.
 
 **Changes made for this course:** a subset of 15 of the file's columns; years 1990 onward; rows sorted by
-country and year. `countries.csv` is a further subset: only the rows that are countries, kept by the filter Lab 1 builds (the
-file's aggregate rows — `World`, the continents, the income groups and the like — are gone). No values were edited.
+country and year. `countries.csv` is a further subset: the rows Lab 1's filter keeps (the
+file's group rows — `World`, the continents, the income groups and the like — are gone). No values were edited.
 
 ## Files
 
